@@ -18,7 +18,7 @@ The Excel-based report was developed as the final assignment for the "Excel for 
 - **Promotions:** Includes shipping discounts.
 - **Predefined Questions & Answers:** Several business questions were solved using formulas, statistics, and Excel functions.
 
-## 📈 [Dashboard Summary](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Dashboard screenshot")
+## 📈 [Dashboard Summary](https://github.com/ileana-gisele/catalog-sales-campaign/blob/master/assets/img_Dashboard.jpg "Dashboard screenshot")
 
 The interactive dashboard includes:
 - Sales totals per category
